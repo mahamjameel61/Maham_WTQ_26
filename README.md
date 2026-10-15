@@ -3,6 +3,8 @@
 An AI-powered Assistant that reads Pakistani electricity bills (K-Electric, LESCO and IESCO) from images, extracts the key billing details into structured JSON, and answers customer questions about each bill in plain English.
 This project was built for the WTQ Build Track challenge.
 
+## Live Demo
+Try the app here: [AI-powered Pakistani Utility Bill Assistant](https://mahamwtq26.streamlit.app/)
 ## Overview
 
 The project runs in two levels:
