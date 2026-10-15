@@ -1,0 +1,34 @@
+{
+  "provider": "IESCO",
+  "tariff": "A-1A(01)",
+  "sanctioned_load_kw": 3,
+  "bill_month": "2026-09",
+  "reading_date": "2026-09-25",
+  "issue_date": "2026-09-26",
+  "due_date": "2026-10-08",
+  "previous_reading": 9301,
+  "current_reading": 9459,
+  "units_consumed": 158,
+  "charges": [
+    {
+      "type": "Electricity Cost",
+      "amount": 6102
+    },
+    {
+      "type": "FPA",
+      "amount": 267
+    }
+  ],
+  "total_charges": 6369,
+  "taxes": [
+    {
+      "type": "GST",
+      "amount": 498
+    }
+  ],
+  "total_taxes": 498,
+  "current_bill": 3267,
+  "arrears": 0,
+  "payable_within_due_date": 3535,
+  "payable_after_due_date": 3812
+}

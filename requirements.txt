@@ -1,0 +1,33 @@
+
+# Core LangChain framework
+langchain
+langchain-core
+langchain-community
+
+# Gemini API integration
+langchain-google-genai
+google-genai
+
+# Environment variables and configuration
+python-dotenv
+
+# Structured output and data validation
+pydantic
+
+# Document loading for RAG
+pypdf
+docx2txt
+beautifulsoup4
+
+# Vector database for document retrieval
+faiss-cpu
+
+# API requests and data handling
+requests
+
+# Optional: build a simple web interface
+streamlit
+
+# Optional: build and run an API
+fastapi
+uvicorn
